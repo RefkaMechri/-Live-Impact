@@ -51,5 +51,5 @@ Le projet répond à un besoin croissant de **feedback intelligent en événemen
 📎 [Accéder au dossier Drive](https://drive.google.com/drive/folders/1JSurqnRx9FtPJ8pue6NoWW9nG4J53jvf)
 
 ---
-![formulaire](./formul)
-![Dashboared](./dash)
+![formulaire](formul.png)
+![Dashboared](./dash.png)
